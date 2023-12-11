@@ -1,0 +1,18 @@
+.card {
+    max-width: 300px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card-content {
+    padding: 16px;
+}
+.card h2 {
+    margin-top: 0;
+}
